@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Vishal Kapoor 👋
 
-<!--
-**kvishal0517/kvishal0517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who enjoys building practical automation tools and business software systems to solve real-world problems. 
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- 🔭 **Morning Lead Hunter:** Developing an automated Python-based workflow designed to discover and draft B2B lead emails, hosted in the `LeadPilot-Enterprise` repository.
+- 💻 **MyPOS:** Building a custom restaurant point-of-sale software system to streamline operations.
+- 🌱 **Always Learning:** Actively exploring new technical educational resources and expanding my skill set through platforms like ProPeers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Focus Areas
+- **Core Languages:** Python
+- **Interests:** B2B Lead Generation Automation, Workflow Optimization, POS System Architecture
+
+## 📫 Let's Connect
+- Feel free to explore my repositories, open an issue, or reach out if you'd like to collaborate on automation tools or software architecture!
